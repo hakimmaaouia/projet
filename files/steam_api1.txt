@@ -1,0 +1,77 @@
+###
+###  @@@@  @@@@  @      @@    @@   @@@   @@@@  @@@
+###  @  @  @     @     @  @  @  @  @  @  @     @  @
+###  @@@   @@@   @     @  @  @@@@  @  @  @@@   @  @
+###  @  @  @     @     @  @  @  @  @  @  @     @  @
+###  @  @  @@@@  @@@@   @@   @  @  @@@   @@@@  @@@
+###
+### Stats and Achievements stored here:
+###
+### Windows 2000, 2003, XP
+###
+### C:\Documents and Settings\All Users\Application Data\Steam\%UserName%\%Appid%\
+###
+### Windows Vista, 7, 8, 8.1, 10
+###
+### C:\ProgramData\Steam\%UserName%\%Appid%\
+###
+[Settings]
+###
+### 
+### Enter your name here
+### 
+### Names with diacritic or cyrillic characters are supported but not guaranteed to work
+###
+UserName = RLD!
+
+###
+### Select your language here if available
+###
+Language = french
+
+[Steam64]
+SteamAppList=0000000001
+SteamApps=0000000007
+SteamAppTicket=0000000000
+SteamClient=0000000017
+SteamContentServer=0000000000
+SteamController=0000000000
+SteamFriends=0000000015
+SteamGameCoordinator=0000000000
+SteamGameServer=0000000012
+SteamGameServerStats=0000000001
+SteamGameStats=0000000000
+SteamHTMLSurface=0000000002
+SteamHTTP=0000000002
+SteamInventory=0000000001
+SteamMasterServerUpdater=0000000000
+SteamMatchmaking=0000000009
+SteamMatchmakingServers=0000000002
+SteamMusic=0000000001
+SteamMusicRemote=0000000001
+SteamNetworking=0000000005
+SteamParentalSettings=0000000000
+SteamRemoteStorage=0000000012
+SteamScreenshots=0000000002
+SteamUGC=0000000003
+SteamUnifiedMessages=0000000001
+SteamUser=0000000018
+SteamUserStats=0000000011
+SteamUtils=0000000007
+SteamVideo=0000000001
+SteamVR=0000000005
+
+[Steam]
+
+InstallDir = ..\..\..\..\..\..\
+SM0 = HellbladeGame\Binaries\Win64\HellbladeGame-Win64-Shipping.exe
+SM1 = Engine\Binaries\ThirdParty\Steamworks\Steamv132\Win64\steam_api64.dll
+
+CFlags = 0x362d0bc6f83856dd
+
+XFlags = 0x4cdbe3a7eedfc800
+
+###
+### http://store.steampowered.com/app/%AppId%/
+###
+AppId = 414340

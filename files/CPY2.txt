@@ -1,0 +1,5 @@
+[Settings]
+AppID=1035208
+PlayerName=CPY
+Language=FR_FR
+UserId=305402420

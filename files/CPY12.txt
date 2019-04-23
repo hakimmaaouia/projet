@@ -1,0 +1,7 @@
+[Settings]
+Language=english
+AppID=418370
+PlayerName=CPY
+SavePath=%DEFAULT_CPY_DIR%
+SteamID=292733975847239680
+Unlock_DLCheats=1
